@@ -23,6 +23,13 @@ body, html {
   min-height: 100%;
 }
 
+.bgimg-3 {
+  background-position: center;
+  background-size: cover;
+  background-image: url("../img/head_4.jpg");
+  min-height: 100%;
+}
+
 .contatti {
   background-position: center;
   background-size: cover;
@@ -30,6 +37,3 @@ body, html {
   min-height: 100%;
 }
 
-.chi-siamo{
-  text-decoration: black;
-}
